@@ -9,7 +9,7 @@ public class palindrom{
 
 		Scanner num1 = new Scanner(System.in);
 
-		int a = num1.nextInt();
+		int a = num1.nextInt(); 
 
 		temp = a;
 
